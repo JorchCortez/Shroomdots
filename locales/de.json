@@ -11,7 +11,7 @@
     },
     "404": {
       "title": "404 Seite nicht gefunden",
-      "subtext_html": "Die von dir angeforderte Seite existiert nicht. Klicke <a href=\"{{ link }}\" class=\"text-link\">hier</a>, um den Einkauf fortzusetzen."
+      "subtext_html": "Die von dir angeforderte Seite existiert nicht. Klicke <a href=\"{{ link }}\" class=\"text-link\">hier<\/a>, um den Einkauf fortzusetzen."
     },
     "pagination": {
       "previous": "Zurück",
@@ -24,7 +24,7 @@
       "login_form_submit": "Betreten",
       "signup_form_email_label": "E-Mail",
       "signup_form_success": "Wir senden dir eine E-Mail, kurz bevor wir eröffnen!",
-      "admin_link_html": "Bist du der Geschäftsinhaber? <a href=\"/admin\" class=\"text-link\">Melde dich hier an</a>",
+      "admin_link_html": "Bist du der Geschäftsinhaber? <a href=\"\/admin\" class=\"text-link\">Melde dich hier an<\/a>",
       "password_link": "Mit Passwort betreten",
       "powered_by_shopify_html": "Dieser Shop wird mit Hilfe von {{ shopify }} betrieben werden",
       "close": "Schließen (Esc)"
@@ -65,7 +65,7 @@
       "dropdown_label": "Sprache"
     },
     "country": {
-      "dropdown_label": "Land/Region"
+      "dropdown_label": "Land\/Region"
     }
   },
   "blogs": {
@@ -97,13 +97,13 @@
       "note": "Besondere Hinweise an den Verkäufer",
       "subtotal": "Zwischensumme",
       "taxes_and_shipping_at_checkout": "Steuern und Versandkosten werden beim Checkout berechnet",
-      "taxes_and_shipping_policy_at_checkout_html": "zzgl. MwSt. und <a href=\"{{ link }}\">Versandkosten</a>",
+      "taxes_and_shipping_policy_at_checkout_html": "zzgl. MwSt. und <a href=\"{{ link }}\">Versandkosten<\/a>",
       "taxes_included_but_shipping_at_checkout": "inkl. MwSt.",
-      "taxes_included_and_shipping_policy_html": "inkl. MwSt. zzgl. <a href=\"{{ link }}\">Versandkosten</a>",
+      "taxes_included_and_shipping_policy_html": "inkl. MwSt. zzgl. <a href=\"{{ link }}\">Versandkosten<\/a>",
       "update": "Warenkorb aktualisieren",
       "checkout": "Zur Kasse",
       "empty": "Dein Warenkorb ist im Moment leer.",
-      "continue_browsing_html": "Mit der Suche <a href=\"{{ link }}\">hier</a> fortfahren.",
+      "continue_browsing_html": "Mit der Suche <a href=\"{{ link }}\">hier<\/a> fortfahren.",
       "close_cart": "Warenkorb schließen",
       "savings_html": "Du sparst {{ savings }}",
       "reduce_quantity": "Artikelmenge um eins reduzieren",
@@ -163,7 +163,7 @@
       "address1": "Adresse 1",
       "address2": "Adresse2",
       "city": "Stadt",
-      "country": "Land / Region",
+      "country": "Land \/ Region",
       "province": "Bundesland",
       "zip": "PLZ",
       "phone": "Telefon",
@@ -241,7 +241,7 @@
   },
   "home_page": {
     "slideshow": {
-      "navigation_instructions": "Nutze die linken/rechten Pfeile, um durch die Slideshow zu navigieren, oder wische nach links bzw. rechts, wenn du ein mobiles Gerät verwendest",
+      "navigation_instructions": "Nutze die linken\/rechten Pfeile, um durch die Slideshow zu navigieren, oder wische nach links bzw. rechts, wenn du ein mobiles Gerät verwendest",
       "next_slide": "Nächster Schieber",
       "previous_slide": "Vorheriger Schieber",
       "play": "Diashow abspielen",
@@ -260,7 +260,7 @@
     "map": {
       "address_error": "Kann die Adresse nicht finden",
       "address_no_results": "Keine Ergebnisse für diese Adresse",
-      "address_query_limit_html": "Du hast die Nutzungsgrenze der Google-API überschritten. Du solltest über ein Upgrade auf einen <a href=\"https://developers.google.com/maps/premium/usage-limits\">Premium-Plan</a> nachdenken.",
+      "address_query_limit_html": "Du hast die Nutzungsgrenze der Google-API überschritten. Du solltest über ein Upgrade auf einen <a href=\"https:\/\/developers.google.com\/maps\/premium\/usage-limits\">Premium-Plan<\/a> nachdenken.",
       "auth_error_html": "Es gab ein Problem bei der Authentifizierung deines Google Maps-Kontos."
     }
   },
@@ -280,12 +280,12 @@
   },
   "products": {
     "general": {
-      "save_html": "Du sparst<br />{{ saved_amount }}",
+      "save_html": "Du sparst<br \/>{{ saved_amount }}",
       "collection_return": "Zurück zu",
       "sale_price": "Sonderpreis",
       "regular_price": "Normaler Preis",
       "include_taxes": "inkl. MwSt.",
-      "shipping_policy_html": "zzgl. <a href=\"{{ link }}\">Versandkosten</a>",
+      "shipping_policy_html": "zzgl. <a href=\"{{ link }}\">Versandkosten<\/a>",
       "unit_price": "Stückpreis"
     },
     "product": {

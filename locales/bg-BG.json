@@ -11,7 +11,7 @@
     },
     "404": {
       "title": "404 Страницата не е открита",
-      "subtext_html": "Търсената страница не съществува. Щракнете <a href=\"{{ link }}\" class=\"text-link\">тук</a>, за да продължите да пазарувате."
+      "subtext_html": "Търсената страница не съществува. Щракнете <a href=\"{{ link }}\" class=\"text-link\">тук<\/a>, за да продължите да пазарувате."
     },
     "pagination": {
       "previous": "Назад",
@@ -24,7 +24,7 @@
       "login_form_submit": "Въведете",
       "signup_form_email_label": "Имейл",
       "signup_form_success": "Ще ви изпратим имейл точно преди да отворим.",
-      "admin_link_html": "Вие ли сте собственикът на магазина? <a href=\"/admin\" class=\"text-link\">Влезте тук</a>",
+      "admin_link_html": "Вие ли сте собственикът на магазина? <a href=\"\/admin\" class=\"text-link\">Влезте тук<\/a>",
       "password_link": "Влизане с парола",
       "powered_by_shopify_html": "Този магазин ще се поддържа от {{ shopify }}",
       "close": "затваряне (Esc)"
@@ -65,7 +65,7 @@
       "dropdown_label": "Език"
     },
     "country": {
-      "dropdown_label": "Държава/регион"
+      "dropdown_label": "Държава\/регион"
     }
   },
   "blogs": {
@@ -97,13 +97,13 @@
       "note": "Специални инструкции за продавача",
       "subtotal": "Междинна сума",
       "taxes_and_shipping_at_checkout": "Данъците и доставката се изчисляват при плащане",
-      "taxes_and_shipping_policy_at_checkout_html": "Данъците и <a href=\"{{ link }}\">доставката</a> се изчисляват при плащане",
+      "taxes_and_shipping_policy_at_checkout_html": "Данъците и <a href=\"{{ link }}\">доставката<\/a> се изчисляват при плащане",
       "taxes_included_but_shipping_at_checkout": "Данъците са включени, а доставката се изчислява при плащане",
-      "taxes_included_and_shipping_policy_html": "С включени данъци. <a href=\"{{ link }}\">Доставката</a> се изчислява при плащане.",
+      "taxes_included_and_shipping_policy_html": "С включени данъци. <a href=\"{{ link }}\">Доставката<\/a> се изчислява при плащане.",
       "update": "Актуализиране на количката",
       "checkout": "Преминаване към плащане",
       "empty": "Количката ви в момента е празна.",
-      "continue_browsing_html": "Продължете да разглеждате <a href=\"{{ link }}\">тук</a>.",
+      "continue_browsing_html": "Продължете да разглеждате <a href=\"{{ link }}\">тук<\/a>.",
       "close_cart": "Затваряне на количката",
       "savings_html": "Спестявате {{ savings }}",
       "reduce_quantity": "Намаляване на количеството артикули с 1",
@@ -163,7 +163,7 @@
       "address1": "Адрес1",
       "address2": "Адрес2",
       "city": "Град",
-      "country": "Държава/регион",
+      "country": "Държава\/регион",
       "province": "Провинция",
       "zip": "Пощенски код",
       "phone": "Телефон",
@@ -241,7 +241,7 @@
   },
   "home_page": {
     "slideshow": {
-      "navigation_instructions": "Използвайте стрелките за наляво/надясно, за да навигирате в слайдшоуто, или плъзнете с пръст наляво/надясно, ако използвате мобилно устройство",
+      "navigation_instructions": "Използвайте стрелките за наляво\/надясно, за да навигирате в слайдшоуто, или плъзнете с пръст наляво\/надясно, ако използвате мобилно устройство",
       "next_slide": "Следващ слайд",
       "previous_slide": "Предишен слайд",
       "play": "Възпроизвеждане на слайдшоу",
@@ -260,7 +260,7 @@
     "map": {
       "address_error": "Грешка при търсенето на този адрес",
       "address_no_results": "За този адрес няма резултати",
-      "address_query_limit_html": "Превишихте ограничението за използване на Google API. Помислете за надграждане до <a href=\"https://developers.google.com/maps/premium/usage-limits\">план Premium</a>.",
+      "address_query_limit_html": "Превишихте ограничението за използване на Google API. Помислете за надграждане до <a href=\"https:\/\/developers.google.com\/maps\/premium\/usage-limits\">план Premium<\/a>.",
       "auth_error_html": "Възникна проблем при удостоверяването на профила ви в Google Карти."
     }
   },
@@ -280,12 +280,12 @@
   },
   "products": {
     "general": {
-      "save_html": "Спестено:<br />{{ saved_amount }}",
+      "save_html": "Спестено:<br \/>{{ saved_amount }}",
       "collection_return": "Назад към",
       "sale_price": "Цена при разпродажба",
       "regular_price": "Обичайна цена",
       "include_taxes": "С включени данъци.",
-      "shipping_policy_html": "<a href=\"{{ link }}\">Доставката</a> се изчислява при плащане.",
+      "shipping_policy_html": "<a href=\"{{ link }}\">Доставката<\/a> се изчислява при плащане.",
       "unit_price": "Единична цена"
     },
     "product": {

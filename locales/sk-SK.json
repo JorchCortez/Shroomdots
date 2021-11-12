@@ -11,7 +11,7 @@
     },
     "404": {
       "title": "404 Stránka sa nenašla",
-      "subtext_html": "Hľadaná stránka neexistuje. <a href=\"{{ link }}\" class=\"text-link\">Kliknite sem</a> a pokračujte v nákupe."
+      "subtext_html": "Hľadaná stránka neexistuje. <a href=\"{{ link }}\" class=\"text-link\">Kliknite sem<\/a> a pokračujte v nákupe."
     },
     "pagination": {
       "previous": "Predchádzajúce",
@@ -24,7 +24,7 @@
       "login_form_submit": "Prejsť",
       "signup_form_email_label": "E-mail",
       "signup_form_success": "Tesne pred otvorením vám odošleme e-mail!",
-      "admin_link_html": "Ste vlastníkom obchodu? <a href=\"/admin\" class=\"text-link\">Prihláste sa tu</a>",
+      "admin_link_html": "Ste vlastníkom obchodu? <a href=\"\/admin\" class=\"text-link\">Prihláste sa tu<\/a>",
       "password_link": "Prejsť s použitím hesla",
       "powered_by_shopify_html": "Tento obchod bude používať technológiu {{ shopify }}",
       "close": "zavrieť (esc)"
@@ -65,7 +65,7 @@
       "dropdown_label": "Jazyk"
     },
     "country": {
-      "dropdown_label": "Krajina/oblasť"
+      "dropdown_label": "Krajina\/oblasť"
     }
   },
   "blogs": {
@@ -99,13 +99,13 @@
       "note": "Špeciálne pokyny pre predajcu",
       "subtotal": "Medzisúčet",
       "taxes_and_shipping_at_checkout": "Dane a doprava sa vypočítajú v pokladni",
-      "taxes_and_shipping_policy_at_checkout_html": "Dane a <a href=\"{{ link }}\">doprava</a> sa vypočítajú v pokladni",
+      "taxes_and_shipping_policy_at_checkout_html": "Dane a <a href=\"{{ link }}\">doprava<\/a> sa vypočítajú v pokladni",
       "taxes_included_but_shipping_at_checkout": "Dane sa zahrnú a doprava sa vypočíta v pokladni",
-      "taxes_included_and_shipping_policy_html": "Vrátane dane. <a href=\"{{ link }}\">Doprava</a> sa vypočíta v pokladni.",
+      "taxes_included_and_shipping_policy_html": "Vrátane dane. <a href=\"{{ link }}\">Doprava<\/a> sa vypočíta v pokladni.",
       "update": "Aktualizovať košík",
       "checkout": "Do pokladne",
       "empty": "Váš košík je momentálne prázdny.",
-      "continue_browsing_html": "Pokračujte v prezeraní <a href=\"{{ link }}\">tu.</a>",
+      "continue_browsing_html": "Pokračujte v prezeraní <a href=\"{{ link }}\">tu.<\/a>",
       "close_cart": "Zavrieť košík",
       "savings_html": "Ušetríte {{ savings }}",
       "reduce_quantity": "Znížiť počet položiek o jednu",
@@ -165,7 +165,7 @@
       "address1": "Adresa 1",
       "address2": "Adresa 2",
       "city": "Mesto",
-      "country": "Krajina/oblasť",
+      "country": "Krajina\/oblasť",
       "province": "Kraj",
       "zip": "Poštové smerovacie číslo",
       "phone": "Telefón",
@@ -243,7 +243,7 @@
   },
   "home_page": {
     "slideshow": {
-      "navigation_instructions": "Na navigáciu v prezentácii použite šípky doľava/doprava alebo ak používate mobilné zariadenie, potiahnite prstom doľava/doprava",
+      "navigation_instructions": "Na navigáciu v prezentácii použite šípky doľava\/doprava alebo ak používate mobilné zariadenie, potiahnite prstom doľava\/doprava",
       "next_slide": "Nasledujúca snímka",
       "previous_slide": "Predchádzajúca snímka",
       "play": "Prehrať prezentáciu",
@@ -262,7 +262,7 @@
     "map": {
       "address_error": "Pri vyhľadávaní tejto adresy sa vyskytla chyba",
       "address_no_results": "Pre túto adresu sa nenašli žiadne výsledky",
-      "address_query_limit_html": "Prekročili ste limit používania rozhrania Google API. Zvážte inováciu na <a href=\"https://developers.google.com/maps/premium/usage-limits\">prémiový plán</a>.",
+      "address_query_limit_html": "Prekročili ste limit používania rozhrania Google API. Zvážte inováciu na <a href=\"https:\/\/developers.google.com\/maps\/premium\/usage-limits\">prémiový plán<\/a>.",
       "auth_error_html": "Pri overovaní konta Máp Google sa vyskytol problém."
     }
   },
@@ -282,17 +282,17 @@
   },
   "products": {
     "general": {
-      "save_html": "Uložiť<br />{{ saved_amount }}",
+      "save_html": "Uložiť<br \/>{{ saved_amount }}",
       "collection_return": "Späť na",
       "sale_price": "Cena po zľave",
       "regular_price": "Normálna cena",
       "include_taxes": "Vrátane dane.",
-      "shipping_policy_html": "<a href=\"{{ link }}\">Doprava</a> sa vypočíta v pokladni.",
+      "shipping_policy_html": "<a href=\"{{ link }}\">Doprava<\/a> sa vypočíta v pokladni.",
       "unit_price": "Jednotková cena"
     },
     "product": {
       "sold_out": "Vypredané",
-      "sold_out_html": "Vypredané<br />",
+      "sold_out_html": "Vypredané<br \/>",
       "unavailable": "Nedostupné",
       "quantity": "Množstvo",
       "add_to_cart": "Pridať do košíka",

@@ -11,7 +11,7 @@
     },
     "404": {
       "title": "404 Strani ni mogoče najti",
-      "subtext_html": "Stran, ki ste jo iskali, ne obstaja. Če želite nadaljevati z nakupovanjem, <a href=\"{{ link }}\" class=\"text-link\">kliknite tukaj</a>."
+      "subtext_html": "Stran, ki ste jo iskali, ne obstaja. Če želite nadaljevati z nakupovanjem, <a href=\"{{ link }}\" class=\"text-link\">kliknite tukaj<\/a>."
     },
     "pagination": {
       "previous": "Nazaj",
@@ -24,7 +24,7 @@
       "login_form_submit": "Vstop",
       "signup_form_email_label": "E-poštni naslov",
       "signup_form_success": "Tik pred otvoritvijo vam bomo poslali e-pošto.",
-      "admin_link_html": "Ali ste lastnik trgovine? <a href=\"/admin\" class=\"text-link\">Prijavite se tukaj</a>",
+      "admin_link_html": "Ali ste lastnik trgovine? <a href=\"\/admin\" class=\"text-link\">Prijavite se tukaj<\/a>",
       "password_link": "Vstop z geslom",
       "powered_by_shopify_html": "To trgovino bo omogočala platforma {{ shopify }}",
       "close": "zapri (esc)"
@@ -65,7 +65,7 @@
       "dropdown_label": "Jezik"
     },
     "country": {
-      "dropdown_label": "Država/regija"
+      "dropdown_label": "Država\/regija"
     }
   },
   "blogs": {
@@ -99,13 +99,13 @@
       "note": "Posebna navodila za prodajalca",
       "subtotal": "Vmesna vsota",
       "taxes_and_shipping_at_checkout": "Davki in dostava se obračunajo ob zaključku nakupa",
-      "taxes_and_shipping_policy_at_checkout_html": "Davki in <a href=\"{{ link }}\">dostava</a> se obračunajo ob zaključku nakupa",
+      "taxes_and_shipping_policy_at_checkout_html": "Davki in <a href=\"{{ link }}\">dostava<\/a> se obračunajo ob zaključku nakupa",
       "taxes_included_but_shipping_at_checkout": "Vključen davek in dostava se obračunata ob zaključku nakupa",
-      "taxes_included_and_shipping_policy_html": "Vključno z davkom. <a href=\"{{ link }}\">Dostava</a> se obračuna ob zaključku nakupa.",
+      "taxes_included_and_shipping_policy_html": "Vključno z davkom. <a href=\"{{ link }}\">Dostava<\/a> se obračuna ob zaključku nakupa.",
       "update": "Posodobi košarico",
       "checkout": "Zaključi nakup",
       "empty": "Vaša košarica je trenutno prazna.",
-      "continue_browsing_html": "Z brskanjem nadaljujte <a href=\"{{ link }}\">tukaj</a>.",
+      "continue_browsing_html": "Z brskanjem nadaljujte <a href=\"{{ link }}\">tukaj<\/a>.",
       "close_cart": "Zapri košarico",
       "savings_html": "Prihranili boste {{ savings }}",
       "reduce_quantity": "Zmanjšaj količino izdelkov za enega",
@@ -165,7 +165,7 @@
       "address1": "Naslov 1",
       "address2": "Naslov 2",
       "city": "Kraj",
-      "country": "Država/regija",
+      "country": "Država\/regija",
       "province": "Območje",
       "zip": "Poštna številka",
       "phone": "Telefonska številka",
@@ -243,7 +243,7 @@
   },
   "home_page": {
     "slideshow": {
-      "navigation_instructions": "Za pomikanje po diaprojekciji uporabite tipki levo/desno oz. podrsnite v levo/desno, če uporabljate mobilno napravo",
+      "navigation_instructions": "Za pomikanje po diaprojekciji uporabite tipki levo\/desno oz. podrsnite v levo\/desno, če uporabljate mobilno napravo",
       "next_slide": "Naslednji diapozitiv",
       "previous_slide": "Prejšnji diapozitiv",
       "play": "Predvajaj diaprojekcijo",
@@ -262,7 +262,7 @@
     "map": {
       "address_error": "Pri iskanju tega naslova je prišlo do napake",
       "address_no_results": "Ni rezultatov za ta naslov",
-      "address_query_limit_html": "Prekoračili ste omejitev uporabe Googlovega API-ja. Razmislite o nadgradnji na <a href=\"https://developers.google.com/maps/premium/usage-limits\">paket Premium</a>.",
+      "address_query_limit_html": "Prekoračili ste omejitev uporabe Googlovega API-ja. Razmislite o nadgradnji na <a href=\"https:\/\/developers.google.com\/maps\/premium\/usage-limits\">paket Premium<\/a>.",
       "auth_error_html": "Pri preverjanju pristnosti vašega računa za storitev Google Zemljevidi je prišlo do težave."
     }
   },
@@ -282,17 +282,17 @@
   },
   "products": {
     "general": {
-      "save_html": "Shrani<br />{{ saved_amount }}",
+      "save_html": "Shrani<br \/>{{ saved_amount }}",
       "collection_return": "Nazaj na",
       "sale_price": "Znižana cena",
       "regular_price": "Redna cena",
       "include_taxes": "Vključno z davkom.",
-      "shipping_policy_html": "<a href=\"{{ link }}\">Dostava</a> se obračuna ob zaključku nakupa.",
+      "shipping_policy_html": "<a href=\"{{ link }}\">Dostava<\/a> se obračuna ob zaključku nakupa.",
       "unit_price": "Cena na enoto"
     },
     "product": {
       "sold_out": "Razprodano",
-      "sold_out_html": "Razprodano<br />",
+      "sold_out_html": "Razprodano<br \/>",
       "unavailable": "Ni na voljo",
       "quantity": "Količina",
       "add_to_cart": "Dodaj v košarico",
