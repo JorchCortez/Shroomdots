@@ -11,7 +11,7 @@
     },
     "404": {
       "title": "404 Stranica nije pronađena",
-      "subtext_html": "Stranica koju ste tražili ne postoji. <a href=\"{{ link }}\" class=\"text-link\">Kliknite ovdje</a> da biste nastavili s kupnjom."
+      "subtext_html": "Stranica koju ste tražili ne postoji. <a href=\"{{ link }}\" class=\"text-link\">Kliknite ovdje<\/a> da biste nastavili s kupnjom."
     },
     "pagination": {
       "previous": "Prethodno",
@@ -24,7 +24,7 @@
       "login_form_submit": "Unesi",
       "signup_form_email_label": "Pošalji e-poruku",
       "signup_form_success": "Poslat ćemo vam poruku e-pošte neposredno prije nego što otvorimo!",
-      "admin_link_html": "Jeste li vlasnik trgovine? <a href=\"/admin\" class=\"text-link\">Prijavite se ovdje</a>",
+      "admin_link_html": "Jeste li vlasnik trgovine? <a href=\"\/admin\" class=\"text-link\">Prijavite se ovdje<\/a>",
       "password_link": "Uđite pomoću lozinke",
       "powered_by_shopify_html": "Trgovinu pokreće {{ shopify }}",
       "close": "zatvori (esc)"
@@ -65,7 +65,7 @@
       "dropdown_label": "Jezik"
     },
     "country": {
-      "dropdown_label": "Država/regija"
+      "dropdown_label": "Država\/regija"
     }
   },
   "blogs": {
@@ -98,13 +98,13 @@
       "note": "Posebne upute za prodavatelja",
       "subtotal": "Podzbroj",
       "taxes_and_shipping_at_checkout": "Porezi i poštarina obračunavaju se prilikom završetka kupnje",
-      "taxes_and_shipping_policy_at_checkout_html": "Porezi i <a href=\"{{ link }}\">poštarina</a> obračunavaju se prilikom završetka kupnje",
+      "taxes_and_shipping_policy_at_checkout_html": "Porezi i <a href=\"{{ link }}\">poštarina<\/a> obračunavaju se prilikom završetka kupnje",
       "taxes_included_but_shipping_at_checkout": "Uključeni porezi i poštarina obračunavaju se prilikom završetka kupnje",
-      "taxes_included_and_shipping_policy_html": "Porez je uključen. <a href=\"{{ link }}\">Poštarina </a> se obračunava prilikom završetka kupnje.",
+      "taxes_included_and_shipping_policy_html": "Porez je uključen. <a href=\"{{ link }}\">Poštarina <\/a> se obračunava prilikom završetka kupnje.",
       "update": "Ažuriraj košaricu",
       "checkout": "Završi kupnju",
       "empty": "Vaša je košarica trenutno prazna.",
-      "continue_browsing_html": "Nastavi pregledavanje <a href=\"{{ link }}\">ovdje</a>.",
+      "continue_browsing_html": "Nastavi pregledavanje <a href=\"{{ link }}\">ovdje<\/a>.",
       "close_cart": "Zatvori košaricu",
       "savings_html": "Štediš {{ savings }}",
       "reduce_quantity": "Smanji količinu artikala za jedan",
@@ -164,8 +164,8 @@
       "address1": "Adresa 1",
       "address2": "Adresa 2",
       "city": "Grad",
-      "country": "Država / regija",
-      "province": "Županija / pokrajina",
+      "country": "Država \/ regija",
+      "province": "Županija \/ pokrajina",
       "zip": "Poštanski broj",
       "phone": "Telefon",
       "set_default": "Postavi kao zadanu adresu",
@@ -242,7 +242,7 @@
   },
   "home_page": {
     "slideshow": {
-      "navigation_instructions": "Pomičite se po prezentaciji pomoću strelica lijevo/desno ili prijeđite prstom ulijevo/udesno ako koristite mobilni uređaj",
+      "navigation_instructions": "Pomičite se po prezentaciji pomoću strelica lijevo\/desno ili prijeđite prstom ulijevo\/udesno ako koristite mobilni uređaj",
       "next_slide": "Sljedeći slajd",
       "previous_slide": "Prethodni slajd",
       "play": "Reproduciraj prezentaciju",
@@ -261,7 +261,7 @@
     "map": {
       "address_error": "Pogreška prilikom traženja te adrese",
       "address_no_results": "Nema rezultata za tu adresu",
-      "address_query_limit_html": "Premašili ste ograničenje upotrebe Google API-ja. Razmislite o nadogradnji na <a href=\"https://developers.google.com/maps/premium/usage-limits\">tarifu Premium</a> .",
+      "address_query_limit_html": "Premašili ste ograničenje upotrebe Google API-ja. Razmislite o nadogradnji na <a href=\"https:\/\/developers.google.com\/maps\/premium\/usage-limits\">tarifu Premium<\/a> .",
       "auth_error_html": "Došlo je do problema s provjerom autentičnosti računa za Google karte."
     }
   },
@@ -281,17 +281,17 @@
   },
   "products": {
     "general": {
-      "save_html": "Ušteda<br />{{ saved_amount }}",
+      "save_html": "Ušteda<br \/>{{ saved_amount }}",
       "collection_return": "Natrag na",
       "sale_price": "Prodajna cijena",
       "regular_price": "Redovna cijena",
       "include_taxes": "Porez je uključen.",
-      "shipping_policy_html": "<a href=\"{{ link }}\">Poštarina </a> se obračunava prilikom završetka kupnje.",
+      "shipping_policy_html": "<a href=\"{{ link }}\">Poštarina <\/a> se obračunava prilikom završetka kupnje.",
       "unit_price": "Jedinična cijena"
     },
     "product": {
       "sold_out": "Rasprodano",
-      "sold_out_html": "Rasprodano<br />",
+      "sold_out_html": "Rasprodano<br \/>",
       "unavailable": "Nije dostupno",
       "quantity": "Količina",
       "add_to_cart": "Dodaj u košaricu",

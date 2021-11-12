@@ -11,7 +11,7 @@
     },
     "404": {
       "title": "404 Pagina nu a fost găsită",
-      "subtext_html": "Pagina pe care o cauți nu există. <a href=\"{{ link }}\" class=\"text-link\">Dă clic aici</a> pentru a continua cumpărăturile."
+      "subtext_html": "Pagina pe care o cauți nu există. <a href=\"{{ link }}\" class=\"text-link\">Dă clic aici<\/a> pentru a continua cumpărăturile."
     },
     "pagination": {
       "previous": "Înapoi",
@@ -24,7 +24,7 @@
       "login_form_submit": "Intră",
       "signup_form_email_label": "E-mail",
       "signup_form_success": "Îți vom trimite un e-mail chiar înainte de deschidere!",
-      "admin_link_html": "Ești proprietarul magazinului? <a href=\"/admin\" class=\"text-link\">Conectează-te aici</a>",
+      "admin_link_html": "Ești proprietarul magazinului? <a href=\"\/admin\" class=\"text-link\">Conectează-te aici<\/a>",
       "password_link": "Intră folosind parola",
       "powered_by_shopify_html": "Acest magazin va fi susținut de {{ shopify }}",
       "close": "închide (esc)"
@@ -65,7 +65,7 @@
       "dropdown_label": "Limbă"
     },
     "country": {
-      "dropdown_label": "Țară/Regiune"
+      "dropdown_label": "Țară\/Regiune"
     }
   },
   "blogs": {
@@ -98,13 +98,13 @@
       "note": "Instrucțiuni speciale pentru vânzător",
       "subtotal": "Subtotal",
       "taxes_and_shipping_at_checkout": "Taxele și transportul sunt calculate la finalizarea comenzii",
-      "taxes_and_shipping_policy_at_checkout_html": "Taxele și <a href=\"{{ link }}\">transportul</a> sunt calculate la finalizarea comenzii",
+      "taxes_and_shipping_policy_at_checkout_html": "Taxele și <a href=\"{{ link }}\">transportul<\/a> sunt calculate la finalizarea comenzii",
       "taxes_included_but_shipping_at_checkout": "Taxele sunt incluse și transportul este calculat la finalizarea comenzii",
-      "taxes_included_and_shipping_policy_html": "Taxe incluse. <a href=\"{{ link }}\">Transportul</a> este calculat la finalizarea comenzii.",
+      "taxes_included_and_shipping_policy_html": "Taxe incluse. <a href=\"{{ link }}\">Transportul<\/a> este calculat la finalizarea comenzii.",
       "update": "Actualizează coșul",
       "checkout": "Finalizează comanda",
       "empty": "Coșul tău este momentan gol.",
-      "continue_browsing_html": "Continuă navigarea <a href=\"{{ link }}\">aici</a>.",
+      "continue_browsing_html": "Continuă navigarea <a href=\"{{ link }}\">aici<\/a>.",
       "close_cart": "Închide coșul",
       "savings_html": "Economisești {{ savings }}",
       "reduce_quantity": "Reduce cantitatea articolelor cu 1",
@@ -164,8 +164,8 @@
       "address1": "Adresă1",
       "address2": "Adresă2",
       "city": "Localitate",
-      "country": "Țară/Regiune",
-      "province": "Județ/provincie",
+      "country": "Țară\/Regiune",
+      "province": "Județ\/provincie",
       "zip": "Cod poștal",
       "phone": "Telefon",
       "set_default": "Setează ca adresă implicită",
@@ -242,7 +242,7 @@
   },
   "home_page": {
     "slideshow": {
-      "navigation_instructions": "Utilizează săgețile stânga/dreapta pentru a naviga în prezentare sau glisează stânga/dreapta dacă folosești un dispozitiv mobil",
+      "navigation_instructions": "Utilizează săgețile stânga\/dreapta pentru a naviga în prezentare sau glisează stânga\/dreapta dacă folosești un dispozitiv mobil",
       "next_slide": "Diapozitivul următor",
       "previous_slide": "Diapozitivul anterior",
       "play": "Redă prezentarea de diapozitive",
@@ -261,7 +261,7 @@
     "map": {
       "address_error": "Eroare la căutarea adresei respective",
       "address_no_results": "Nu există rezultate pentru adresa respectivă",
-      "address_query_limit_html": "Ai depășit limita de utilizare a API-ului Google. Ia în considerare trecerea la un <a href=\"https://developers.google.com/maps/premium/usage-limits\">Plan Premium</a>.",
+      "address_query_limit_html": "Ai depășit limita de utilizare a API-ului Google. Ia în considerare trecerea la un <a href=\"https:\/\/developers.google.com\/maps\/premium\/usage-limits\">Plan Premium<\/a>.",
       "auth_error_html": "A apărut o problemă la autentificarea contului tău Google Maps."
     }
   },
@@ -281,17 +281,17 @@
   },
   "products": {
     "general": {
-      "save_html": "Salvează<br />{{ saved_amount }}",
+      "save_html": "Salvează<br \/>{{ saved_amount }}",
       "collection_return": "Înapoi la",
       "sale_price": "Preț la ofertă",
       "regular_price": "Preț obișnuit",
       "include_taxes": "Taxe incluse.",
-      "shipping_policy_html": "<a href=\"{{ link }}\">Transportul</a> este calculat la finalizarea comenzii.",
+      "shipping_policy_html": "<a href=\"{{ link }}\">Transportul<\/a> este calculat la finalizarea comenzii.",
       "unit_price": "Preț unitar"
     },
     "product": {
       "sold_out": "Stoc epuizat",
-      "sold_out_html": "Stoc<br /> epuizat",
+      "sold_out_html": "Stoc<br \/> epuizat",
       "unavailable": "Indisponibil",
       "quantity": "Cantitate",
       "add_to_cart": "Adaugă în coș",
