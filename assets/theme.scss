@@ -2362,6 +2362,8 @@ $slideshow-indicator-size: 1.25rem;
   @include at-query($min, $postSmall) {
     .hero__title {
       font-size: em(60px);
+      font-weight: 900;
+      font-family:Arial, Helvetica, sans-serif !important;
     }
 
     .hero__subtitle {
